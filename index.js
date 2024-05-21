@@ -84,7 +84,7 @@ const questions = [
 // TODO: Create a function to write README file
 // This function also console logs to let me know the file was created or if there was an error in the creation process
 function writeToFile(fileName, data) {
-    fs.writeFile(fileName, data, (err) => err ? console.log(err.red) : console.log('README.md created!'.green));
+    fs.writeFile(`./generated-readme/${fileName}`, data, (err) => err ? console.log(err.red) : console.log('README.md created!'.green));
 }
 
 // TODO: Create a function to initialize app

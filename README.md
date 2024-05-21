@@ -1,9 +1,7 @@
-# title
-
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+# My Homework Assignment
 
 ## Description
-asldkfj
+this is my homework
 
 ## Table of Contents
 - [Installation](#installation)
@@ -15,26 +13,26 @@ asldkfj
 - [Questions](#questions)
 
 ## Installation
-asdlfkj
+first you do this, then you do that
 
 ## Usage
-asdlfkj
+you just use
 
 ## Screenshot
-![asldkfj](asdlfkj.com)
+![alt text here](www.google.com)
 
 
 ## License
-This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
+This project is licensed under the MIT license.
 
 ## Contributing
-alsdkfjalskdfj
+pls contribute
 
 ## Tests
-alskdjflasdkjf
+testinggggg
 
 ## Credits
-- [asdlkfj](aalsdkfj.com)
+- [credit1](www.google.com)
 
 ## Questions
 If you have any questions, you can contact me at [macbetthh@gmail.com](mailto:macbetthh@gmail.com) or [macbetthh](https://github.com/macbetthh).
