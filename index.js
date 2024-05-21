@@ -16,13 +16,7 @@ const questions = [
     {
         type: 'input',
         name: 'description', 
-        message: 'Please give a short and informative description of your project. This could be the reason for creating this project, what your motivation was, what problem you are trying to solve, etc.:'
-    },
-
-    {
-        type: 'input',
-        name: 'tableOfContents',
-        message: 'List the sections for the Table of Contents, separated by commas (e.g., Installation, License, Credits, etc.):'
+        message: 'Please give a short and informative description of your project. This could be the reason for creating this project, what your motivation for development is, what problem you are trying to solve, etc.:'
     },
 
     {
@@ -39,8 +33,14 @@ const questions = [
 
     {
         type: 'input',
-        name: 'screenshot',
-        message: 'Provide the screenshot information in the format "alt text, URL":'
+        name: 'ssUrl',
+        message: 'What is the URL for your screenshot of your project?'
+    },
+
+    {
+        type: 'input',
+        name: 'ssAlt',
+        message: 'What is the Alt Text you would like to provide for your screenshot?'
     },
 
     {
@@ -65,7 +65,7 @@ const questions = [
     {
         type: 'input',
         name: 'credits',
-        message: 'List any credits, sources, collaborators, or acknowledgements in this format "name, URL":'
+        message: 'List any credits, sources, collaborators, or acknowledgements in this format "name, URL", "name, URL":'
     },
 
     {
