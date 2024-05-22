@@ -95,10 +95,10 @@ https://github.com/macbetthh/readme_wizard/assets/143623621/88a75c4b-41e5-45a2-b
 
 
 
-Alternate video link &rarr; &rarr; [click me](https://new.express.adobe.com/published/urn:aaid:sc:US:adcd9715-5df8-4466-9679-d6719b8d1108?promoid=Y69SGM5H&mv=other)
+Alternate video link (not as speedy) &rarr; &rarr; [click me](https://new.express.adobe.com/published/urn:aaid:sc:US:adcd9715-5df8-4466-9679-d6719b8d1108?promoid=Y69SGM5H&mv=other)
 
 
-![alt text here]()
+![generated_readme_example](https://github.com/macbetthh/readme_wizard/assets/143623621/f6531b3a-c482-4c2f-86b5-0f5344bffd1b)
 
 ---
 
