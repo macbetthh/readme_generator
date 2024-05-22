@@ -88,6 +88,16 @@ Follow these steps to generate your README file -- see Screeshots for visual bas
 ---
 
 ## Screenshots
+
+
+
+https://github.com/macbetthh/readme_wizard/assets/143623621/88a75c4b-41e5-45a2-b92a-088e539c9f16
+
+
+
+Alternate video link &rarr; &rarr; [click me](https://new.express.adobe.com/published/urn:aaid:sc:US:adcd9715-5df8-4466-9679-d6719b8d1108?promoid=Y69SGM5H&mv=other)
+
+
 ![alt text here]()
 
 ---
