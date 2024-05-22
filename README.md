@@ -79,6 +79,7 @@ Follow these steps to generate your README file -- see [Screenshots](#screenshot
         &nbsp;
 
     - Open this file in a markdown view or text editor to see the result
+   &nbsp;
     &rarr;    ```💡Tip: I use the Markdown Preview Enhanced extension in VSCode. ```
 
 &nbsp;
