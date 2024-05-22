@@ -1,7 +1,10 @@
 # 🪄✨README Wizard🧙‍♂️
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+---
 
 ## Description
-##### ReadMe Wizard: Conjuring Perfect READMEs with a Touch of Magic
+##### ✨ReadMe Wizard: Conjuring Perfect READMEs with a Touch of Magic✨
 
 ReadMe Wizard is a **command-line tool** that generates professional README files for your projects. By answering a few prompts, you'll create a well-structured, Markdown ready, README with sections for description, installation, usage, license, and more. 
 
@@ -89,6 +92,9 @@ Follow these steps to generate your README file -- see Screeshots for visual bas
 
 ## Screenshots
 ![alt text here]()
+
+
+Alternate video link &rarr; &rarr; [click me](https://new.express.adobe.com/published/urn:aaid:sc:US:adcd9715-5df8-4466-9679-d6719b8d1108?promoid=Y69SGM5H&mv=other)
 
 ---
 
