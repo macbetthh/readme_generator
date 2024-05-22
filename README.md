@@ -42,7 +42,7 @@ Follow these steps to set up the project:
     npm install
 &nbsp;
 
-4. **Run the app and let the magic happen See **
+4. **Run the app and let the magic happen**
     ```bash
     node index.js
 &nbsp;
