@@ -50,7 +50,7 @@ Follow these steps to set up the project:
 ---
 
 ## Usage
-Follow these steps to generate your README file -- see Screeshots for visual based examples:
+Follow these steps to generate your README file -- see [Screenshots](#screenshots) for visual based examples:
 
 1. **Start the Application:**
 &nbsp;
