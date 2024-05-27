@@ -42,7 +42,7 @@ Follow these steps to set up the project:
     npm install
 &nbsp;
 
-4. **Run the app and let the magic happen See **
+4. **Run the app and let the magic happen**
     ```bash
     node index.js
 &nbsp;
@@ -50,7 +50,7 @@ Follow these steps to set up the project:
 ---
 
 ## Usage
-Follow these steps to generate your README file -- see Screeshots for visual based examples:
+Follow these steps to generate your README file -- see [Screenshots](#screenshots) for visual based examples:
 
 1. **Start the Application:**
 &nbsp;
@@ -79,7 +79,10 @@ Follow these steps to generate your README file -- see Screeshots for visual bas
         &nbsp;
 
     - Open this file in a markdown view or text editor to see the result
-    &rarr;    ```💡Tip: I use the Markdown Preview Enhanced extension in VSCode. ```
+
+         &nbsp;
+
+    - &rarr;```💡Tip: I use the Markdown Preview Enhanced extension in VSCode. ```
 
 &nbsp;
 
