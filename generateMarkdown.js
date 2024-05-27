@@ -62,16 +62,25 @@ ${data.contributing ? `## Contributing 🤝\n${data.contributing}` : ''}
 ${data.tests ? `## Tests 🧪\n${data.tests}` : ''}
 
 ${data.credits ? `## Credits 🌟\n${data.credits.split('", "').map(credit => {
-  const [creditName, creditUrl] = credit.replace(/"/g, '').trim().split(', ');
-  return `- [${creditName.trim()}](${creditUrl.trim()})`;
+  const creditArray = credit.replace(/"/g, '').split(', ');
+  if (creditArray.length === 2) {
+    const [creditName, creditUrl] = creditArray;
+    return `- [${creditName.trim()}](${creditUrl.trim()})`;
+  } else {
+    return `- ${creditArray[0].trim()}`;
+  }
 }).join('\n')}` : ''}
 
 ${data.email || data.github ? `## Questions ❓\nIf you have any questions, you can contact me at ${data.email ? `[${data.email}](mailto:${data.email})` : ''}${data.email && data.github ? ' or ' : ''}${data.github ? `[${data.github}](https://github.com/${data.github})` : ''}.` : ''}
 
 ---
 
-🪄 _This README was generated with ❤️ and a touch of magic by ReadMe Wizard._ ✨
+_This README was generated with ❤️ and a touch of magic by ReadMe Wizard._ 🪄
 `;
 }
 
 module.exports = generateMarkdown;
+
+
+
+

@@ -1,9 +1,9 @@
-# Project Title ✨
+# a ✨
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description 📝
-problem solving project - my motivation is - etc - please ignore the cursor, it's because i zoomed in :) 
+b
 
 ## Table of Contents 📚
 - [Installation](#installation)
@@ -12,34 +12,31 @@ problem solving project - my motivation is - etc - please ignore the cursor, it'
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Credits](#credits)
-- [Questions](#questions)
+
 
 ## Installation 🔧
-step one, do this. step two, do that. 
+c
 
 ## Usage 💻
-you use the project
+d
 
-## Screenshot 📸
-![this is a screenshot](url.png)
 
 
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
 ## Contributing 🤝
-contribute pls, i need help
+e
 
 ## Tests 🧪
-testing 1 2 3
+f
 
 ## Credits 🌟
-- [my mom](google.com)
-- [google](google.com)
+- [Steve](www.google.com)
+- [Steve2](www.google.com)
 
-## Questions ❓
-If you have any questions, you can contact me at [macbetthh@gmail.com](mailto:macbetthh@gmail.com) or [macbetthh](https://github.com/macbetthh).
+
 
 ---
 
-🪄 _This README was generated with ❤️ and a touch of magic by ReadMe Wizard._ ✨
+_This README was generated with ❤️ and a touch of magic by ReadMe Wizard._ 🪄
